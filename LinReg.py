@@ -33,7 +33,6 @@ print(r2)
 for i in val_y:
     print(i)
 
-print('Samik')
 for i in val_predictions:
     print(i)
 
